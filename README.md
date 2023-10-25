@@ -1,6 +1,6 @@
 # Aalto datasets
 
-Here is a list of our lab's dataset.
+Here is a list of datasets collected at our lab.
 
 | Title | Year | Description | Related Publication | Authors | Link | 
 | :----------------- | :------------- | :----- | :----- | :----- | :-----: |
